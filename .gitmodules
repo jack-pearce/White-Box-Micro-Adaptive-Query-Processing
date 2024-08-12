@@ -1,0 +1,21 @@
+[submodule "BOSSVeloxEngine"]
+	path = BOSSVeloxEngine
+	url = git@github.com:jack-pearce/BOSSVeloxEngine.git
+[submodule "BOSSArrowStorageEngine"]
+	path = BOSSArrowStorageEngine
+	url = git@github.com:jack-pearce/BOSSArrowStorageEngine.git
+[submodule "BOSS"]
+	path = BOSS
+	url = git@github.com:jack-pearce/BOSS.git
+[submodule "BOSSKernelBenchmarks"]
+	path = BOSSKernelBenchmarks
+	url = git@github.com:jack-pearce/BOSSKernelBenchmarks.git
+[submodule "BOSSNonAdaptiveEngine"]
+	path = BOSSNonAdaptiveEngine
+	url = git@github.com:jack-pearce/BOSSNonAdaptiveEngine.git
+[submodule "BOSSVectorizationCoordinatorEngine"]
+	path = BOSSVectorizationCoordinatorEngine
+	url = git@github.com:jack-pearce/BOSSVectorizationCoordinatorEngine.git
+[submodule "BOSSHazardAdaptiveEngine"]
+	path = BOSSHazardAdaptiveEngine
+	url = git@github.com:jack-pearce/BOSSHazardAdaptiveEngine.git
