@@ -1,6 +1,6 @@
 # White-Box Micro-Adaptive Query Processing
 
-This repository provides the implementation of White-Box Micro-Adaptive Query Processing, as described in our paper submitted to ICDE 2025. The project addresses micro-architectural hazards in in-memory data management systems, such as cache misses and branch mispredictions, through hazard-adaptive query execution.
+This repository provides the implementation of White-Box Micro-Adaptive Query Processing, as described in our ICDE 2025 paper. The project addresses micro-architectural hazards in in-memory data management systems, such as cache misses and branch mispredictions, through hazard-adaptive query execution.
 
 
 ## Hazard-Adaptive Operators
@@ -30,7 +30,7 @@ Other submodules:
 
 ## Benchmarks
 
-In the future, we will provide a single script to build all engines and run benchmarks. Currently, each repository includes build instructions/scripts in the `README.md` or `Scripts` directory. Benchmarks are managed via [scripts](https://github.com/jack-pearce/BOSSKernelBenchmarks/tree/7462c531e7bc4376413aa8a52c61f65d0b4d38a9/Scripts) in the `BOSSKernelBenchmarks` repository.
+Each repository includes build instructions/scripts in the `README.md` or `Scripts` directory. Benchmarks are managed via [scripts](https://github.com/jack-pearce/BOSSKernelBenchmarks/tree/7462c531e7bc4376413aa8a52c61f65d0b4d38a9/Scripts) in the `BOSSKernelBenchmarks` repository.
 
 
 ## Authors
